@@ -30,9 +30,6 @@ I enjoy transforming ideas into real-world solutions while continuously improvin
 - Secure Tool Invocation
 - Multi-layered Security Architecture
 
-**Tech Stack**
-Python • AI • Security
-
 ### 👁 AI-Based Retinal Analysis for Detection of CVD and DR
 
 Mobile application for early detection of Diabetic Retinopathy and Cardiovascular Disease using AI.
@@ -44,8 +41,6 @@ Mobile application for early detection of Diabetic Retinopathy and Cardiovascula
 - FastAPI backend
 - Railway deployment
 
-**Tech Stack**
-Flutter • Python • FastAPI • MobileNet
 ### 📵 Smart DND Enforcer for VoIP Calls
 Context-aware Android application that intelligently prioritizes VoIP calls during Do Not Disturb mode.
 **Tech Stack**
@@ -56,21 +51,6 @@ Flutter • AWS Services • SQL
 
 A platform connecting street food vendors with customers.
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=dheshnab05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=dheshnab05&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheshnab05&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 🏆 Achievements
 
