@@ -2,7 +2,7 @@
 
 <h3 align="center">Explore. Learn. Build.</h3>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Projects.;Learning+Every+Day.;Java+%7C+Flutter+%7C+AI.;Always+Curious." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Projects.;Learning+Every+Day.;Always+Curious." />
 </p>
 <p align="center">
 Final Year Computer Science & Engineering Student
