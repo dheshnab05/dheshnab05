@@ -21,31 +21,53 @@ I enjoy transforming ideas into real-world solutions while continuously improvin
 
 </p>
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
-### Sentinel-Core
+<table>
+<tr>
+<td width="50%">
 
-A multi-layered cyber-resilient framework designed to secure autonomous LLM assistants against prompt injection and other AI security threats.
+<b>Sentinel-Core</b><br><br>
 
-**[View Repository](https://github.com/dheshnab05/Sentinel-Core)**
+A multi-layered security framework designed to safeguard autonomous LLM assistants against prompt injection, malicious tool usage, and adversarial attacks while ensuring secure AI interactions.<br><br>
 
-### AI-Based Retinal Analysis
+<a href="https://github.com/dheshnab05/Sentinel-Core">View Repository →</a>
 
-An AI-powered mobile application for early detection of Diabetic Retinopathy and Cardiovascular Disease using retinal image analysis.
+</td>
 
-**[View Repository](https://github.com/dheshnab05/retinal_app)**
+<td width="50%">
 
-### Smart DND Enforcer for VoIP Calls
+<b>AI-Based Retinal Analysis</b><br><br>
 
-A context-aware Android application that intelligently prioritizes important VoIP calls during Do Not Disturb mode.
+An AI-powered mobile application that analyzes retinal images to assist in the early detection of Diabetic Retinopathy and Cardiovascular Disease through deep learning and cloud-based inference.<br><br>
 
-**[View Repository](https://github.com/dheshnab05/Smart-DND-Enforcer)**
+<a href="https://github.com/dheshnab05/retinal_app">View Repository →</a>
 
-### DesiBiteHub
+</td>
+</tr>
 
-A platform connecting street food vendors with customers through a simple and accessible digital experience.
+<tr>
+<td>
 
-**[View Repository](https://github.com/dheshnab05/DesiBiteHub)**
+<b>Smart DND Enforcer for VoIP Calls</b><br><br>
+
+A context-aware Android application that intelligently prioritizes important VoIP calls during Do Not Disturb mode, ensuring critical communication without unnecessary interruptions.<br><br>
+
+<a href="https://github.com/dheshnab05/Smart-DND-Enforcer">View Repository →</a>
+
+</td>
+
+<td>
+
+<b>DesiBiteHub</b><br><br>
+
+A digital platform that connects street food vendors with customers by simplifying food discovery, vendor visibility, and local ordering through an intuitive interface.<br><br>
+
+<a href="https://github.com/dheshnab05/DesiBiteHub">View Repository →</a>
+
+</td>
+</tr>
+</table>
 
 ## 🏆 Achievements
 
