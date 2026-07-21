@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheshna</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Explore+Learn+Build." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Explore.+Learn.+Build." />
 </p>
 <p align="center">
 Final Year Computer Science & Engineering Student
