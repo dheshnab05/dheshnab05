@@ -1,6 +1,9 @@
 <div align="center">
 
-# Dheshna B
+<h1 align="center">
+Hi, I'm Dheshna
+<span style="color:#A855F7;">✦</span>
+</h1>
 
 *Computer Science Engineering Student*
 
@@ -28,7 +31,7 @@ I enjoy transforming ideas into real-world solutions while continuously improvin
 
 <td width="50%" valign="top">
 
-### Sentinel-Core
+### Seninel Core
 
 A multi-layered security framework designed to protect autonomous LLM assistants against prompt injection, malicious tool usage, and adversarial attacks.
 
@@ -40,7 +43,7 @@ A multi-layered security framework designed to protect autonomous LLM assistants
 
 <td width="50%" valign="top">
 
-### AI-Based Retinal Analysis
+### AI-Based Retinal Analysis for Detection of CVD and DR
 
 An AI-powered mobile application that analyzes retinal images to assist in the early detection of Diabetic Retinopathy and Cardiovascular Disease using deep learning.
 
@@ -56,7 +59,7 @@ An AI-powered mobile application that analyzes retinal images to assist in the e
 
 <td valign="top">
 
-### Smart DND Enforcer
+### Smart DND Enforcer for VOIP Calls
 
 A context-aware Android application that intelligently prioritizes important VoIP calls during Do Not Disturb mode.
 
