@@ -1,42 +1,29 @@
 <h1 align="center">Hi 👋, I'm Dheshna</h1>
 
 <h3 align="center">Explore. Learn. Build.</h3>
-
 <p align="center">
-Final Year Computer Science & Engineering Student • Java • AI • Flutter
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Projects.;Learning+Every+Day.;Java+%7C+Flutter+%7C+AI.;Always+Curious." />
 </p>
-
 <p align="center">
-<img src="assets/lumos.gif" width="900">
+Final Year Computer Science & Engineering Student
 </p>
-
----
 
 ## 👩‍💻 About Me
-
-I'm a Computer Science & Engineering student who enjoys building practical software and AI-powered applications.
-
-- ☕ Currently strengthening my Java & Data Structures skills
-- 🤖 Interested in Artificial Intelligence and Software Development
-- 📱 Building cross-platform mobile applications using Flutter
-- 💡 I enjoy transforming ideas into real-world projects through continuous learning
-
----
+I'm a final-year Computer Science & Engineering student passionate about building practical software and AI-powered applications.
+I enjoy transforming ideas into real-world solutions while continuously improving my problem-solving and software development skills.
 
 ## 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,flutter,html,css,git,github,vscode,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode,sql"/>
 
 </p>
 
----
-
 ## 🚀 Featured Projects
 
-### 🛡 Sentinel-Core
-**Cyber-resilient framework for securing autonomous LLM assistants.**
+### Sentinel-Core
+**A Multi-Layered Cyber-resilient framework for securing autonomous LLM assistants.**
 
 **Highlights**
 
@@ -45,13 +32,9 @@ I'm a Computer Science & Engineering student who enjoys building practical softw
 - Multi-layered Security Architecture
 
 **Tech Stack**
-
 Python • AI • Security
 
-
----
-
-### 👁 AI-Based Retinal Analysis
+### 👁 AI-Based Retinal Analysis for Detection of CVD and DR
 
 Mobile application for early detection of Diabetic Retinopathy and Cardiovascular Disease using AI.
 
@@ -63,28 +46,16 @@ Mobile application for early detection of Diabetic Retinopathy and Cardiovascula
 - Railway deployment
 
 **Tech Stack**
-
 Flutter • Python • FastAPI • MobileNet
-
-
----
-
 ### 📵 Smart DND Enforcer for VoIP Calls
-
 Context-aware Android application that intelligently prioritizes VoIP calls during Do Not Disturb mode.
-
 **Tech Stack**
 
-Flutter • AWS
-
-
----
+Flutter • AWS Services • SQL
 
 ### 🍜 DesiBiteHub
 
 A platform connecting street food vendors with customers.
-
----
 
 ## 📊 GitHub Statistics
 
@@ -120,17 +91,6 @@ A platform connecting street food vendors with customers.
 
 🎨 2nd Prize (UI/UX) & 3rd Prize (Cryptic Minds) — TECHNOVATION
 
----
-
-## 🌱 Currently Learning
-
-- Advanced Java
-- Data Structures & Algorithms
-- Backend Development
-- Artificial Intelligence
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
@@ -146,7 +106,5 @@ A platform connecting street food vendors with customers.
 <p align="center">
 
 ### Explore. Learn. Build.
-
-Building meaningful software, one project at a time.
 
 </p>
