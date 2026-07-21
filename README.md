@@ -1,92 +1,143 @@
-<h1 align="center">Hi , I'm Dheshna</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Explore.+Learn.+Build." />
-</p>
-<p align="center">
-Final Year Computer Science & Engineering Student
-</p>
+# Dheshna B
 
-<h2>About Me</h2>
+**Computer Science Engineering Student**
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=280&height=30&lines=Explore.+Learn.+Build."/>
+
+</div>
+
+<br>
+
+<h2 align="center">About Me</h2>
+
 <p align="center">
 I'm a final-year Computer Science & Engineering student passionate about building practical software and AI-powered applications.<br>
 I enjoy transforming ideas into real-world solutions while continuously improving my problem-solving and software development skills.
 </p>
 
-## 🛠 Tech Stack
+<br>
+
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode,sql"/>
-
 </p>
+
+<br>
 
 <h2 align="center">Featured Projects</h2>
 
 <table>
 <tr>
-<td width="50%">
 
-<b>Sentinel-Core</b><br><br>
+<td width="50%" valign="top">
 
-A multi-layered security framework designed to safeguard autonomous LLM assistants against prompt injection, malicious tool usage, and adversarial attacks while ensuring secure AI interactions.<br><br>
+### Sentinel-Core
 
-<a href="https://github.com/dheshnab05/Sentinel-Core">View Repository →</a>
+A multi-layered security framework designed to protect autonomous LLM assistants against prompt injection, malicious tool usage, and adversarial attacks.
+
+<br>
+
+<a href="https://github.com/dheshnab05/Sentinel-Core">
+<img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI-Based Retinal Analysis
+
+An AI-powered mobile application that analyzes retinal images to assist in the early detection of Diabetic Retinopathy and Cardiovascular Disease using deep learning.
+
+<br>
+
+<a href="https://github.com/dheshnab05/retinal_app">
+<img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="50%">
-
-<b>AI-Based Retinal Analysis</b><br><br>
-
-An AI-powered mobile application that analyzes retinal images to assist in the early detection of Diabetic Retinopathy and Cardiovascular Disease through deep learning.<br><br>
-
-<a href="https://github.com/dheshnab05/retinal_app">View Repository →</a>
-
-</td>
 </tr>
 
 <tr>
-<td>
 
-<b>Smart DND Enforcer for VoIP Calls</b><br><br>
+<td valign="top">
 
-A context-aware Android application that intelligently prioritizes important VoIP calls during Do Not Disturb mode, ensuring critical communication without unnecessary interruptions.<br><br>
+### Smart DND Enforcer
 
-<a href="https://github.com/dheshnab05/Smart-DND-Enforcer">View Repository →</a>
+A context-aware Android application that intelligently prioritizes important VoIP calls during Do Not Disturb mode.
+
+<br>
+
+<a href="https://github.com/dheshnab05/Smart-DND-Enforcer">
+<img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td valign="top">
+
+### DesiBiteHub
+
+A platform connecting street-food vendors with customers by improving food discovery, vendor visibility, and local ordering.
+
+<br>
+
+<a href="https://github.com/dheshnab05/DesiBiteHub">
+<img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td>
-
-<b>DesiBiteHub</b><br><br>
-
-A digital platform that connects street food vendors with customers by simplifying food discovery, vendor visibility, and local ordering through an intuitive interface.<br><br>
-
-<a href="https://github.com/dheshnab05/DesiBiteHub">View Repository →</a>
-
-</td>
 </tr>
+
 </table>
 
-## 🏆 Achievements
+<br>
 
-🏅 Unisys Innovation Program (UIP) Hackathon — Qualified for Round 2
+<h2 align="center">Achievements</h2>
 
-🥈 SCIMIT 2026 Project Expo — Consolation Prize
+<p align="center">
 
-⭐ Finalist — ECLearnix EdTech 360 Innovation Challenge
+🏅 Qualified for Round 2 — <b>Unisys Innovation Program (UIP)</b><br><br>
 
-🚀 Top 10 — GDG TechSprint SMVEC
+🥈 Consolation Prize — <b>SCIMIT 2026 Project Expo</b><br><br>
 
-🎨 2nd Prize (UI/UX) & 3rd Prize (Cryptic Minds) — TECHNOVATION
+⭐ Finalist — <b>ECLearnix EdTech 360 Innovation Challenge</b><br><br>
 
-## Connect With Me
+🚀 Top 10 — <b>GDG TechSprint SMVEC</b><br><br>
 
-<p align="left">
-
-<a href="https://github.com/dheshnab05">GitHub</a> •
-<a href="https://www.linkedin.com/">LinkedIn</a> •
-<a href="mailto:dheshnavasuki05@gmail.com">Email</a>
+🎨 2nd Prize (UI/UX) & 3rd Prize (Cryptic Minds) — <b>TECHNOVATION</b>
 
 </p>
+
+<br>
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+
+<a href="https://github.com/dheshnab05">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:dheshnavasuki05@gmail.com">
+<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<div align="center">
+
+*"Explore. Learn. Build."*
+
+</div>
