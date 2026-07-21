@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dheshna</h1>
+<h1 align="center">Hi , I'm Dheshna</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Explore.+Learn.+Build." />
@@ -19,7 +19,7 @@ I enjoy transforming ideas into real-world solutions while continuously improvin
 
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Sentinel-Core
 **A Multi-Layered Cyber-resilient framework for securing autonomous LLM assistants.**
@@ -30,7 +30,7 @@ I enjoy transforming ideas into real-world solutions while continuously improvin
 - Secure Tool Invocation
 - Multi-layered Security Architecture
 
-### 👁 AI-Based Retinal Analysis for Detection of CVD and DR
+### AI-Based Retinal Analysis for Detection of CVD and DR
 
 Mobile application for early detection of Diabetic Retinopathy and Cardiovascular Disease using AI.
 
@@ -41,13 +41,13 @@ Mobile application for early detection of Diabetic Retinopathy and Cardiovascula
 - FastAPI backend
 - Railway deployment
 
-### 📵 Smart DND Enforcer for VoIP Calls
+### Smart DND Enforcer for VoIP Calls
 Context-aware Android application that intelligently prioritizes VoIP calls during Do Not Disturb mode.
 **Tech Stack**
 
 Flutter • AWS Services • SQL
 
-### 🍜 DesiBiteHub
+### DesiBiteHub
 
 A platform connecting street food vendors with customers.
 
@@ -64,20 +64,12 @@ A platform connecting street food vendors with customers.
 
 🎨 2nd Prize (UI/UX) & 3rd Prize (Cryptic Minds) — TECHNOVATION
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
 
 <a href="https://github.com/dheshnab05">GitHub</a> •
 <a href="https://www.linkedin.com/">LinkedIn</a> •
 <a href="mailto:dheshnavasuki05@gmail.com">Email</a>
-
-</p>
-
----
-
-<p align="center">
-
-### Explore. Learn. Build.
 
 </p>
