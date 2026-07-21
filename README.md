@@ -22,35 +22,28 @@ I enjoy transforming ideas into real-world solutions while continuously improvin
 ## Featured Projects
 
 ### Sentinel-Core
-**A Multi-Layered Cyber-resilient framework for securing autonomous LLM assistants.**
 
-**Highlights**
+A multi-layered cyber-resilient framework designed to secure autonomous LLM assistants against prompt injection and other AI security threats.
 
-- Prompt Injection Protection
-- Secure Tool Invocation
-- Multi-layered Security Architecture
+**[View Repository](https://github.com/dheshnab05/Sentinel-Core)**
 
-### AI-Based Retinal Analysis for Detection of CVD and DR
+### AI-Based Retinal Analysis
 
-Mobile application for early detection of Diabetic Retinopathy and Cardiovascular Disease using AI.
+An AI-powered mobile application for early detection of Diabetic Retinopathy and Cardiovascular Disease using retinal image analysis.
 
-**Highlights**
-
-- CNN-based image classification
-- Flutter Android application
-- FastAPI backend
-- Railway deployment
+**[View Repository](https://github.com/dheshnab05/retinal_app)**
 
 ### Smart DND Enforcer for VoIP Calls
-Context-aware Android application that intelligently prioritizes VoIP calls during Do Not Disturb mode.
-**Tech Stack**
 
-Flutter • AWS Services • SQL
+A context-aware Android application that intelligently prioritizes important VoIP calls during Do Not Disturb mode.
+
+**[View Repository](https://github.com/dheshnab05/Smart-DND-Enforcer)**
 
 ### DesiBiteHub
 
-A platform connecting street food vendors with customers.
+A platform connecting street food vendors with customers through a simple and accessible digital experience.
 
+**[View Repository](https://github.com/dheshnab05/DesiBiteHub)**
 
 ## 🏆 Achievements
 
