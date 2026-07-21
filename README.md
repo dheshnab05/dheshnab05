@@ -114,9 +114,3 @@ A platform connecting street-food vendors with customers by improving food disco
 </a>
 
 </p>
-
-<div align="center">
-
-<i>Explore. Learn. Build.</i>
-
-</div>
