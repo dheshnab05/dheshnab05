@@ -86,19 +86,19 @@ A platform connecting street-food vendors with customers by improving food disco
 
 <h2 align="center">Achievements</h2>
 
-<p align="center">
 
-🏅 Qualified for Round 2 — <b>Unisys Innovation Program (UIP)</b><br>
+<span style="color:#A855F7;">✦</span>
+Qualified for Round 2 — <b>Unisys Innovation Program (UIP)</b><br>
+<span style="color:#A855F7;">✦</span>
+Consolation Prize — <b>SCIMIT 2026 Project Expo</b><br>
+<span style="color:#A855F7;">✦</span>
+Finalist — <b>ECLearnix EdTech 360 Innovation Challenge</b><br>
+<span style="color:#A855F7;">✦</span>
+Top 10 — <b>GDG TechSprint SMVEC</b><br>
+<span style="color:#A855F7;">✦</span>
+2nd Prize (UI/UX) & 3rd Prize (Cryptic Minds) — <b>TECHNOVATION</b>
 
-🥈 Consolation Prize — <b>SCIMIT 2026 Project Expo</b><br>
 
-⭐ Finalist — <b>ECLearnix EdTech 360 Innovation Challenge</b><br>
-
-🚀 Top 10 — <b>GDG TechSprint SMVEC</b><br>
-
-🎨 2nd Prize (UI/UX) & 3rd Prize (Cryptic Minds) — <b>TECHNOVATION</b>
-
-</p>
 
 <h2 align="center">Connect</h2>
 
