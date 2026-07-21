@@ -39,7 +39,7 @@ A multi-layered security framework designed to safeguard autonomous LLM assistan
 
 <b>AI-Based Retinal Analysis</b><br><br>
 
-An AI-powered mobile application that analyzes retinal images to assist in the early detection of Diabetic Retinopathy and Cardiovascular Disease through deep learning and cloud-based inference.<br><br>
+An AI-powered mobile application that analyzes retinal images to assist in the early detection of Diabetic Retinopathy and Cardiovascular Disease through deep learning.<br><br>
 
 <a href="https://github.com/dheshnab05/retinal_app">View Repository →</a>
 
