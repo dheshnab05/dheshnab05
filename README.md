@@ -7,9 +7,11 @@
 Final Year Computer Science & Engineering Student
 </p>
 
-## 👩‍💻 About Me
-I'm a final-year Computer Science & Engineering student passionate about building practical software and AI-powered applications.
+<h2 align="center">About Me</h2>
+<p align="center">
+I'm a final-year Computer Science & Engineering student passionate about building practical software and AI-powered applications.<br>
 I enjoy transforming ideas into real-world solutions while continuously improving my problem-solving and software development skills.
+</p>
 
 ## 🛠 Tech Stack
 
