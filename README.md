@@ -72,14 +72,10 @@ A context-aware Android application that intelligently prioritizes important VoI
 
 ### Marvel Fan Page
 
-A responsive Marvel-themed fan website featuring iconic superheroes, character highlights, and an engaging UI built with modern web technologies.
+A responsive Marvel-themed fan website showcasing iconic superheroes, character highlights, and an engaging user interface.
 
 <a href="https://github.com/dheshnab05/MARVEL-WEBPAGE">
-<img src="https://img.shields.io/badge/View%20Repository-E62429?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://marvel-webpage.netlify.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
