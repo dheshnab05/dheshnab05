@@ -57,25 +57,13 @@ An AI-powered mobile application that analyzes retinal images to assist in the e
 
 <tr>
 
-<td valign="top">
+<td valign="center">
 
 ### Smart DND Enforcer for VOIP Calls
 
 A context-aware Android application that intelligently prioritizes important VoIP calls during Do Not Disturb mode.
 
 <a href="https://github.com/dheshnab05/Smart-DND-Enforcer">
-<img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td valign="top">
-
-### DesiBiteHub
-
-A platform connecting street-food vendors with customers by improving food discovery, vendor visibility, and local ordering.
-
-<a href="https://github.com/dheshnab05/DesiBiteHub">
 <img src="https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
