@@ -31,7 +31,7 @@ I enjoy transforming ideas into real-world solutions while continuously improvin
 
 <td width="50%" valign="top">
 
-### Seninel Core
+### Sentinel Core
 
 A multi-layered security framework designed to protect autonomous LLM assistants against prompt injection, malicious tool usage, and adversarial attacks.
 
