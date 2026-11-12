@@ -96,6 +96,13 @@ Top 10 — <b>GDG TechSprint SMVEC</b><br>
 <span style="color:#A855F7;">✦</span>
 2nd Prize (UI/UX) & 3rd Prize (Cryptic Minds) — <b>TECHNOVATION</b>
 
+
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheshnab05&theme=transparent&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6&hide_border=true" width="60%"/>
+</p>
+
 <h2 align="center">Contribution Graph</h2>
 
 <p align="center">
@@ -120,9 +127,4 @@ Top 10 — <b>GDG TechSprint SMVEC</b><br>
 
 </p>
 
-<h2 align="center">GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheshnab05&theme=transparent&ring=8B5CF6&fire=A855F7&currStreakLabel=8B5CF6&hide_border=true" width="60%"/>
-</p>
 
