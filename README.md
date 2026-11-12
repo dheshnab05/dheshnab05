@@ -98,11 +98,9 @@ Top 10 — <b>GDG TechSprint SMVEC</b><br>
 
 <h2 align="center">Contribution Graph</h2>
 
-<div align="center">
-
-<img src="https://github.com/dheshnab05/dheshnab05/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dheshnab05/dheshnab05/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 <h2 align="center">Connect</h2>
 
