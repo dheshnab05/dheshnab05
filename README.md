@@ -122,11 +122,8 @@ Top 10 — <b>GDG TechSprint SMVEC</b><br>
 
 <h2 align="center">GitHub Activity</h2>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dheshnab05&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=808080&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheshnab05&layout=compact&theme=transparent&title_color=8B5CF6&text_color=808080&hide_border=true" height="165"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dheshnab05&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheshnab05&layout=compact&theme=transparent&title_color=8B5CF6&hide_border=true" height="165"/>
+</p>
 
