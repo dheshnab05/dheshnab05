@@ -96,7 +96,13 @@ Top 10 — <b>GDG TechSprint SMVEC</b><br>
 <span style="color:#A855F7;">✦</span>
 2nd Prize (UI/UX) & 3rd Prize (Cryptic Minds) — <b>TECHNOVATION</b>
 
+<h2 align="center">Contribution Graph</h2>
 
+<div align="center">
+
+<img src="https://github.com/dheshnab05/dheshnab05/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+
+</div>
 
 <h2 align="center">Connect</h2>
 
@@ -115,14 +121,6 @@ Top 10 — <b>GDG TechSprint SMVEC</b><br>
 </a>
 
 </p>
-
-<h2 align="center">Contribution Graph</h2>
-
-<div align="center">
-
-<img src="https://github.com/dheshnab05/dheshnab05/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-
-</div>
 
 <h2 align="center">GitHub Activity</h2>
 
