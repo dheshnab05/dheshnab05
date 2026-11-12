@@ -115,3 +115,22 @@ Top 10 — <b>GDG TechSprint SMVEC</b><br>
 </a>
 
 </p>
+
+<h2 align="center">Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://github.com/dheshnab05/dheshnab05/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+
+</div>
+
+<h2 align="center">GitHub Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dheshnab05&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=808080&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheshnab05&layout=compact&theme=transparent&title_color=8B5CF6&text_color=808080&hide_border=true" height="165"/>
+
+</div>
+
